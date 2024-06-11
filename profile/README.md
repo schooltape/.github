@@ -1,54 +1,34 @@
+<h3 align="center">
+	<img src="https://github.com/schooltape/schooltape/raw/main/assets/schooltape-logo.png" width="100" alt="Logo"/><br/>
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	Schooltape
+	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+</h3>
+
+<h6 align="center">
+  <a href="https://github.com/schooltape/schooltape">Extension</a>
+  ·
+  <a href="https://schooltape.github.io">Website</a>
+  ·
+  <a href="https://github.com/schooltape/dispenser">Discord Bot</a>
+</h6>
+
 <p align="center">
-  <img width="30%" src="https://github.com/schooltape/schooltape/raw/main/assets/schooltape-logo.png" />
-</p>
-<p align="center">
-  <b> ~ Schooltape ~ </b><br>
-  <i>Every Schoolbox needs Schooltape!</i>
+  <a href="https://discord.gg/rZxtGJ98BE">
+    <picture>
+      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/macchiato_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: dark)"/>
+      <source srcset="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"/>
+      <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/social/latte_discord.svg" width="64" height="64" alt="Discord Logo"/>
+    </picture>
+  </a>
+  <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="1" width="5"/>
 </p>
 
 <p align="center">
-	<a href="https://github.com/schooltape/schooltape/stargazers"><img src="https://img.shields.io/github/stars/schooltape/schooltape?colorA=363a4f&colorB=b7bdf8&style=for-the-badge"></a>
-	<a href="https://github.com/schooltape/schooltape/issues"><img src="https://img.shields.io/github/issues/schooltape/schooltape?colorA=363a4f&colorB=f5a97f&style=for-the-badge"></a>
-	<a href="https://github.com/schooltape/schooltape/contributors"><img src="https://img.shields.io/github/contributors/schooltape/schooltape?colorA=363a4f&colorB=a6da95&style=for-the-badge"></a>
-  <a href="https://discord.gg/rZxtGJ98BE"><img alt="Discord" src="https://img.shields.io/discord/1246027558923800626?style=for-the-badge&label=discord&labelColor=363a4f&color=7dc4e4"></a>
+Join our community!
 </p>
+
 
 <p align="center">
 	<img src="https://raw.githubusercontent.com/schooltape/schooltape/main/assets/previews/preview.webp"/>
 </p>
-
----
-
-A web extension to improve the look and feel of [Schoolbox](https://schoolbox.education/). [Download the latest release here!](https://github.com/schooltape/schooltape/releases/latest)
-
-To install Schooltape and get started, **view the [installation](https://schooltape.github.io/installation/) guide**.
-
-## Previews
-
-<details>
-<summary>🌻 Latte</summary>
-<img src="https://raw.githubusercontent.com/schooltape/schooltape/main/assets/previews/latte.webp"/>
-</details>
-<details>
-<summary>🪴 Frappé</summary>
-<img src="https://raw.githubusercontent.com/schooltape/schooltape/main/assets/previews/frappe.webp"/>
-</details>
-<details>
-<summary>🌺 Macchiato</summary>
-<img src="https://raw.githubusercontent.com/schooltape/schooltape/main/assets/previews/macchiato.webp"/>
-</details>
-<details>
-<summary>🌿 Mocha</summary>
-<img src="https://raw.githubusercontent.com/schooltape/schooltape/main/assets/previews/mocha.webp"/>
-</details>
-
-## Features
-
-- **Schoolbox detection:** Automatic detection of any Schoolbox instance!
-- **Plugins:** Built with a plugin system in mind, allowing for easy extensibility.
-- **Themes:** Save your eyes from the harsh white of Schoolbox.
-- **Snippets:** Schooltape has a growing ecosystem of snippets, allowing for easy CSS modifications.
-
-## Wiki
-
-There is more information in [the website](https://schooltape.github.io/)!
