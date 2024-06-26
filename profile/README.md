@@ -1,5 +1,5 @@
 <h3 align="center">
-	<img src="assets/schooltape-logo.png" width="100" alt="Logo"/><br/>
+	<img src="https://github.com/schooltape/schooltape/raw/main/assets/schooltape-logo.png" width="100" alt="Logo"/><br/>
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
 	Schooltape
 	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
