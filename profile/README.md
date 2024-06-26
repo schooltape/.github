@@ -6,9 +6,9 @@
 </h3>
 
 <h6 align="center">
-  <a href="https://github.com/schooltape/schooltape">Extension</a>
-  ·
   <a href="https://schooltape.github.io">Website</a>
+  .
+  <a href="https://github.com/schooltape/schooltape">Extension</a>
   ·
   <a href="https://github.com/schooltape/dispenser">Discord Bot</a>
 </h6>
