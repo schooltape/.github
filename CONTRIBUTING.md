@@ -2,6 +2,8 @@
 
 🎉 First off, thanks for taking the time to contribute! 🎉
 
+We have a contributing guide [on our documentation site](https://schooltape.github.io/contributing) :)
+
 ## Guidelines
 
 The following is a set of guidelines for contributing to this repository. Use your best judgment, and feel free to propose
