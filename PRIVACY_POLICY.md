@@ -14,4 +14,4 @@ Please refrain from uploading any personal data to our systems, as we cannot gua
 
 ## Contact
 
-If you have any concerns or questions please feel free to contact me at `42willow [at] pm.me`
+If you have any concerns or questions please feel free to contact me directly via email: `42willow [at] pm [dot] me`
